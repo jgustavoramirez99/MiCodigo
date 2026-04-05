@@ -9,3 +9,6 @@ Estoy estudiando Ing. de sistemas
 Mi universidad es la UPN
 Estudio de manera presencial
 Los días Martes Jueves y Sabado
+Me gusta programar los dias domingo, cuando descanso
+Estoy aprendiendo Git desde CMD
+

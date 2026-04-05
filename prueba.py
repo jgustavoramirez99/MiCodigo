@@ -1,7 +1,9 @@
 nombre = input ("Escribe tu nombre: ")
 edad = input ("Escribe tu edad: ")
+talla = input("Escribe tu tamaño")
 
 print (edad)
 print(nombre)
+print(talla)
 
-//Añadir un texto donde te pida programar mejor con Python, pasos y detalles, por favor.
+

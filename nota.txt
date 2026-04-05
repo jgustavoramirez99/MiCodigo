@@ -14,3 +14,4 @@ Estoy aprendiendo Git desde CMD
 Me gusta mucho programar, aprender PYTHON también
 quiero ser un buen ingeniero
 
+Es una mejor opcion
